@@ -2,7 +2,7 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "devDependencies": {
-    "rollup": "^2.36.1",
+    "rollup": "^2.51.2",
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-node-resolve": "^5.2.0",
